@@ -19,23 +19,12 @@ sections:
         label: Email
         default_value: Email de contacto
         is_required: true
-      - input_type: select
-        name: subject
-        label: ¿Cuál es el motivo de tu mensaje?
-        default_value: Selecciona una opción
-        options:
-          - Un proyecto para colaborar
-          - Un servicio que necesito
-          - Una idea para emprender
-          - Otro
+
       - input_type: textarea
         name: message
         label: ¡Cuéntame un poco más!
         default_value: Escribe tu mensaje
-      - input_type: checkbox
-        name: consent
-        label: >-
-          Acepto enviar este mensaje que protegerá mis datos y no los compartirá con nadie respetando mi privacidad.
+      
     submit_label: enviar mensaje
 seo:
   title: Contact

@@ -32,24 +32,21 @@ seo:
 layout: page
 ---
 
-Soy Carlos Dugarte, Software Developer, Blogger y Travel Vlogger, vivo en Buenos Aires, Argentina.
-Me apasiona diseñar y desarrollar interfaces de usuario para aplicaciones web basadas en tecnologías modernas como:
-- Angular.
-- Ionic.
-- Sass.
-- JamStack.
-- Material UI.
+Soy Ignacio Muñoz Gomeñuka, Data Analyst, Product Associate y Software Developer, vivo en Buenos Aires, Argentina.
+Me apasiona el analisis de datos y desarrollar estrategias de producto para crear propuestas de valor al usuario a través de la tecnología y software como:
+- Power BI
+- SQL
+- Python
+- R
+- Javascript
 
-Y también trabajo con frameworks de JavaScript para Backend, incluyendo bases de datos no relacionales como:
-- Node.js
-- Express.
-- MongoDB.
+Y también trabajo con herramientas como:
+-Affinity DB
+-Crunchbase
+-DuneSQL
 
+>Me encanta la música, los desafíos, resolver problemas y hacer research para enriquecer mis análisis, de esta manera me aseguro de realizar trabajos con una perspectiva amplia sobre la situación y el contexto mundial.
 
->Me encanta descubrir lugares nuevos, viajar, tomar fotografías y escribir artículos sobre temas de interés para mí, de esta manera me aseguro de compartir mis conocimientos e información con otras personas de todas partes del mundo.
-
-Una de las cosas que me resulta apasionante es la WEB 3.0, la tecnología Blockchain y las criptomonedas que ofrecen una alternativa descentralizada al mundo globalizado de hoy, por ese motivo dedico mi tiempo libre a aprender de ello.
-
-También estoy aprendiendo inglés.
+Participo activamente de la comunidad web3 Argentina colaborando con una comunidad multidisciplinaria llamada Resiliente que a su vez contiene una aceleradora de startups llamada Speezard, la cual propone hacer crecer el ecosistema web3 Argentino dando soporte a proyectos que estan en instancia pre-Seed y Early Stage.
 
 *¡Gracias por estár aquí!*

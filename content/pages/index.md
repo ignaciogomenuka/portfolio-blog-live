@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Carlos Dugarte'
+    title: 'Hi, I'm Ignacio Muñoz Gomeñuka'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I work as a Data & Research analyst focused con the web3 market, focused on product, value proposition and business models.
     actions:
       - label: Let's talk
         url: /contact
@@ -31,7 +30,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: I'm Carlos Dugarte a software developer
+  title: I'm Ignacio Muñoz Gomeñuka a Data Analyst
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'

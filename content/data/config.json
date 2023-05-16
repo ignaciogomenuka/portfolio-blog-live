@@ -1,19 +1,13 @@
 {
-	"title": "Hola, soy Carlos Dugarte",
+	"title": "Hola, soy Ignacio Muñoz Gomeñuka",
 	"path_prefix": "/",
 	"color_scheme": "dark",
-	"accent_color": "blue",
+	"accent_color": "green",
 	"header": {
-		"title": "nomadasdigitales.xyz",
+		"title": "chona.xyz",
 		"has_nav": true,
 		"nav_links": [
-			{
-				"label": "Home",
-				"url": "/",
-				"style": "link"
-			},
-			{
-				"label": "Portfolio",
+			{"label": "Portfolio",
 				"url": "/portfolio/",
 				"style": "link"
 			},
@@ -35,46 +29,40 @@
 		]
 	},
 	"footer": {
-		"content": "&copy; Este sitio web está hecho con 💖 por Carlos Dugarte desde Argentina. Si necesitas comunicarte conmigo envíame un mensaje de <a href=\"https://www.carlosdugarte.com/contact\" target=\"_blank\" rel=\"noopener\">contacto.</a>",
+		"content": "&copy; Este sitio web está hecho con 💖 por Ignacio Muñoz Gomeñuka desde Argentina. Si necesitas comunicarte conmigo envíame un mensaje de <a href=\"https://www.carlosdugarte.com/contact\" target=\"_blank\" rel=\"noopener\">contacto.</a>",
 		"has_social": true,
 		"social_links": [
 			{
 				"label": "Github",
-				"url": "https://github.com/cardugarte/",
+				"url": "https://github.com/ignaciogomenuka/",
 				"style": "icon",
 				"icon": "github",
 				"new_window": true
 			},
 			{
 				"label": "Instagram",
-				"url": "https://www.instagram.com/viajeroextraterrestre/",
+				"url": "https://www.instagram.com/chona.eth/",
 				"style": "icon",
 				"icon": "instagram",
 				"new_window": true
 			},
 			{
 				"label": "LinkedIn",
-				"url": "https://www.linkedin.com/in/cardugarte",
+				"url": "https://www.linkedin.com/in/ignacio-mg",
 				"style": "icon",
 				"icon": "linkedin",
 				"new_window": true
 			}
 			,
-			{
-				"label": "Facebook",
-				"url": "https://www.linkedin.com/in/cardugarte",
-				"style": "icon",
-				"icon": "facebook",
-				"new_window": true
-			},
+
 			{
 				"label": "Twitter",
-				"url": "https://www.linkedin.com/in/cardugarte",
+				"url": "https://www.linkedin.com/in/chona_eth",
 				"style": "icon",
 				"icon": "twitter",
 				"new_window": true
 			}
 		]
 	},
-	"favicon": "/images/avatar-blog.png"
+	"favicon": "/images/chona32.png"
 }
